@@ -33,8 +33,10 @@ FinanceRAG is a domain-specific Retrieval-Augmented Generation (RAG) system desi
 Clone this repository and install dependencies:
  
 ```bash
-git clone https://github.com/yourusername/FinanceRAG.git
-cd FinanceRAG
+git clone https://github.com/aarushidhaka/FinanceRAG-Retrieval-Augmented-Generation-System.git
+cd FinanceRAG-Retrieval-Augmented-Generation-System
+```
+```bash
 pip install -r requirements.txt
 ```
 Run the retrieval pipeline:
